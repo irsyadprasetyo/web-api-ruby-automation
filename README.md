@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Sample / template for automation web with ruby capybara
 
-Things you may want to cover:
+This project can be used for
 
-* Ruby version
+* API Automation
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Web UI Automation (Cucumber && Capybara)
