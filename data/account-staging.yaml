@@ -1,0 +1,27 @@
+package:
+  profiles: staging
+service.endpoints:
+  backoffice:
+    baseUrl: https://service-staging.mokapos.com
+    basePath: /
+  backoffice-old:
+    baseUrl: https://staging-old.mokapos.com
+    basePath: /
+
+account.services:
+  pos1:
+    username: moka-seit-a@mailinator.com
+    password: moka-seit-a123456
+    outlets:
+      - Outlet 1
+      - Outlet 2
+      - Outlet 3
+      - Outlet 4
+  pos2:
+    username: moka-seit-b@mailinator.com
+    password: moka-seit-b123456
+    outlets:
+      - Outlet 1
+      - Outlet 2
+      - Outlet 3
+      - Outlet 4
